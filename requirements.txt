@@ -1,5 +1,5 @@
 streamlit
-openai-whisper
 sentence-transformers
-torch
+openai-whisper
 numpy
+torch
